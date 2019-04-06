@@ -11,7 +11,7 @@ namespace HoiProject
         static void Main(string[] args)
         {
             Console.WriteLine("hoi tashaci");
-            Console.WriteLine("hoi madja");
+            Console.WriteLine("master hoi");
         }
     }
 }
