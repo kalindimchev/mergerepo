@@ -10,6 +10,7 @@ namespace Initial_project
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("master");
         }
     }
 }
