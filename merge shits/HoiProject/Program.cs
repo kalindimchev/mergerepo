@@ -10,8 +10,8 @@ namespace HoiProject
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("tashaci");
-            Console.WriteLine("madja");
+            Console.WriteLine("hoi tashaci");
+            Console.WriteLine("hoi madja");
         }
     }
 }
