@@ -1,1 +1,2 @@
 D:\merge shits\Initial project\bin\Debug\Initial project.exe.config
+D:\mergerepo\merge shits\Initial project\bin\Debug\Initial project.exe.config
