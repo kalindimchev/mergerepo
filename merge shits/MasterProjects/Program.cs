@@ -10,6 +10,7 @@ namespace MasterProjects
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("kur za mastera");
         }
     }
 }

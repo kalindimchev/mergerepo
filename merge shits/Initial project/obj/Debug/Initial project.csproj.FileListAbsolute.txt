@@ -1,2 +1,3 @@
 D:\merge shits\Initial project\bin\Debug\Initial project.exe.config
 D:\mergerepo\merge shits\Initial project\bin\Debug\Initial project.exe.config
+F:\nehsto si\mergerepo\merge shits\Initial project\bin\Debug\Initial project.exe.config
